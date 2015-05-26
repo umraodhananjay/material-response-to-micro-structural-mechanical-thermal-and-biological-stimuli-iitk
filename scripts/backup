@@ -1,0 +1,12 @@
+#/bin/bash
+# backup Script for material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli
+
+# backup Script takes the backup of the data used by the lab.
+# Since there is no data being used by material-response-to-micro-structural-mechanical-thermal-and-biological-stimuli, 
+# the script does nothing. 
+
+# Usage of the script
+
+# To use backup script, run the command
+# ./scripts/backup
+ 
